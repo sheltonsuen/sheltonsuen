@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a experienced software engineer, mostly foused on the front-end area✨ . Previousely, I was worked for ❤️ThoughtWorks❤️ as a consultant, right now worked for a 💔start up company💔 as full-stack engineer👨🏻‍💻.
+I'm a experienced software engineer, mostly foused on the front-end area✨. Previousely, I was worked for ❤️ThoughtWorks❤️ as a consultant, right now worked for a 💔start up company💔 as full-stack engineer👨🏻‍💻.
 
 ### Joined Github since 2015 🐳
 
