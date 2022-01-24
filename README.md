@@ -1,4 +1,4 @@
-# Hi 👋, &nbsp; I'm [Shelton!](https://github.com/sheltonsuen/)
+# Hi 👋, &nbsp; I'm [Shelton](https://github.com/sheltonsuen/)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sheltonsuen)
 
